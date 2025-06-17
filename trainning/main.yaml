@@ -1,0 +1,19 @@
+train: /Users/choemyeongjun/Downloads/final_invisable_1234/train/images
+val: /Users/choemyeongjun/Downloads/final_invisable_1234/val/images
+
+names:
+  0: 보석바
+  1: 체리마루
+  2: 캔디바
+  3: 메로나
+  4: 요먐때
+  5: 누가바
+  6: 수박바
+  7: 스크류바
+  8: 아맛나
+  9: 호두마루
+  10: 바삐코
+  11: 바밤바
+  12: 깐도리
+  13: 죠스바
+  14: 와삭바
